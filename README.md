@@ -3,6 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78AE2&background=FFFFFF00&width=435&lines=Full+Stack+Developer)](https://git.io/typing-svg)
 
 
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejV6N2Rsem1mMzZ5bDBkbnZwdHRmaGsxa3FnbmZhYTlmeHF4Z3B0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NgurY1o4z080Jfoyzw/giphy.gif" width="350" align="right"/>
+
+
  ## 👩‍💻About Me 
 
 
@@ -15,6 +18,9 @@
 🌐 My digital corner on GitHub showcases my creations.
 
 ✨ Thank you for visiting my web space. I'm excited to connect and open to exploring meaningful opportunities.
+
+
+
 <br></br>
 
 ## 💻Tech Stack
@@ -51,9 +57,19 @@
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
+</br>
 
 ## 📧 Contact me
 
+<a href="https://www.linkedin.com/in/lara-vel/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="mailto:lara.vel@outlook.com" target="_blank">
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Correo Electrónico">
+</a>
+
+<br></br>
 
 
 ![](https://komarev.com/ghpvc/?username=Lara-Vel&color=ff69b4)
