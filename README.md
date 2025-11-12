@@ -1,6 +1,6 @@
 <h2> Hello everyone! I'm Lara Vel <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78AE2&background=FFFFFF00&width=435&lines=Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=F783AE&width=435&lines=Frontend+Developer;UI+Designer;UI+Developer)](https://git.io/typing-svg)
 
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejV6N2Rsem1mMzZ5bDBkbnZwdHRmaGsxa3FnbmZhYTlmeHF4Z3B0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NgurY1o4z080Jfoyzw/giphy.gif" width="350" align="right"/>
